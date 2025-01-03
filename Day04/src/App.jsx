@@ -18,7 +18,7 @@ const App = () => {
         {productcat.map((prod, index) => (
           <div
             key={index}
-            className="bg-blue-300 p-4 rounded-lg shadow-md flex items-center justify-between"
+            className="bg-blue-300 hover:scale-105 cursor-pointer p-4 rounded-lg shadow-xl hover:drop-shadow-[0_10px_10px_rgba(255,0,0,0.6)] flex items-center justify-between"
           >
             <span className="text-lg font-semibold">{prod.category}</span>
             <span className="bg-green-500 text-white px-3 py-1 rounded-full">
