@@ -20,22 +20,40 @@ const App = () => {
   //   );
   // };
 
-  const [counts, setCount] = useState(Array(products.length).fill(0));
+  // const [counts, setCount] = useState(Array(products.length).fill(0));
+  // const handleIncrement = (index) => {
+  //   console.log(index);
+  //   console.log(counts[index]);
+  //   setCount((prevCounts) =>
+  //     prevCounts.map((count, i) =>
+  //       i === index ? (count >= 5 ? 5 : count + 1) : count
+  //     )
+  //   );
+  // };
+  // const handleDecrement = (index) => {
+  //   setCount((prevCounts) =>
+  //     prevCounts.map((count, i) =>
+  //       i === index ? (count <= 0 ? 0 : count - 1) : count
+  //     )
+  //   );
+  // };
+
+  const [counts, setCounts] = useState({});
+
+  // Handle Increment
   const handleIncrement = (index) => {
-    console.log(index);
-    console.log(counts[index]);
-    setCount((prevCounts) =>
-      prevCounts.map((count, i) =>
-        i === index ? (count >= 5 ? 5 : count + 1) : count
-      )
-    );
+    setCounts((prevCounts) => ({
+      ...prevCounts,
+      [index]: (prevCounts[index] || 0) >= 5 ? 5 : (prevCounts[index] || 0) + 1,
+    }));
   };
+
+  // Handle Decrement
   const handleDecrement = (index) => {
-    setCount((prevCounts) =>
-      prevCounts.map((count, i) =>
-        i === index ? (count <= 0 ? 0 : count - 1) : count
-      )
-    );
+    setCounts((prevCounts) => ({
+      ...prevCounts,
+      [index]: (prevCounts[index] || 0) <= 0 ? 0 : (prevCounts[index] || 0) - 1,
+    }));
   };
 
   return (
@@ -82,7 +100,7 @@ const App = () => {
                   >
                     +
                   </button>
-                  <span className="relative">{counts[index]}</span>
+                  <span className="relative">{counts[index] || 0}</span>
                   <button
                     className="font-bold text-xl"
                     onClick={() => handleDecrement(index)}
