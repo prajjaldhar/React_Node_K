@@ -26,7 +26,7 @@ const MyPlugin = () => {
         <div className="grid grid-cols-3 gap-8">
           {data &&
             data.slice(0, 9).map((item, index) => (
-              <div className="bg-neutral-800 p-6 rounded-md">
+              <div key={index} className="bg-neutral-800 p-6 rounded-md">
                 <div className="flex items-center gap-4 mb-4">
                   <img
                     src="https://tools-api.webcrumbs.org/image-placeholder/50/50/avatars/1"
