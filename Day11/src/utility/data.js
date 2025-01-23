@@ -8,6 +8,11 @@ const products = [
     price: 149,
     originalPrice: 199,
     currency: "$",
+    description: "This is a premium quality product offering great value.",
+    productCode: "P001",
+    productType: "Electronics",
+    manufactureDate: "2024-01-01",
+    expireDate: "2026-01-01",
   },
   {
     id: 2,
@@ -18,6 +23,11 @@ const products = [
     price: 149,
     originalPrice: 199,
     currency: "$",
+    description: "An excellent product for daily use, crafted with precision.",
+    productCode: "P002",
+    productType: "Home Appliances",
+    manufactureDate: "2023-06-15",
+    expireDate: "2025-06-15",
   },
   {
     id: 3,
@@ -28,6 +38,11 @@ const products = [
     price: 149,
     originalPrice: 199,
     currency: "$",
+    description: "A high-quality product with a sleek and modern design.",
+    productCode: "P003",
+    productType: "Gadgets",
+    manufactureDate: "2024-03-01",
+    expireDate: "2026-03-01",
   },
   {
     id: 4,
@@ -38,6 +53,11 @@ const products = [
     price: 199,
     originalPrice: 249,
     currency: "$",
+    description: "Durable and long-lasting, designed for ultimate performance.",
+    productCode: "P004",
+    productType: "Accessories",
+    manufactureDate: "2023-11-10",
+    expireDate: "2025-11-10",
   },
   {
     id: 5,
@@ -48,6 +68,11 @@ const products = [
     price: 179,
     originalPrice: 219,
     currency: "$",
+    description: "A trusted product with outstanding reviews from customers.",
+    productCode: "P005",
+    productType: "Kitchenware",
+    manufactureDate: "2023-09-05",
+    expireDate: "2025-09-05",
   },
   {
     id: 6,
@@ -58,6 +83,12 @@ const products = [
     price: 159,
     originalPrice: 199,
     currency: "$",
+    description: "Stylish and functional, a perfect choice for modern needs.",
+    productCode: "P006",
+    productType: "Fashion",
+    manufactureDate: "2024-05-20",
+    expireDate: "2026-05-20",
   },
 ];
+
 export default products;
