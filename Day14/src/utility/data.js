@@ -1,0 +1,73 @@
+const mockdata = [
+  {
+    id: 1,
+    title: "Nature Waterfall",
+    url: "https://cdn.pixabay.com/video/2022/12/04/141607-777930544_large.mp4",
+    thumbnail: "https://images.pexels.com/videos/856349/free-video-856349.jpg",
+    duration: "00:15",
+  },
+  {
+    id: 2,
+    title: "City Traffic Timelapse",
+    url: "https://videos.pexels.com/video-files/854142/854142-hd_1920_1080_30fps.mp4",
+    thumbnail: "https://images.pexels.com/videos/854142/free-video-854142.jpg",
+    duration: "00:20",
+  },
+  {
+    id: 3,
+    title: "Bird Flying Over Lake",
+    url: "https://videos.pexels.com/video-files/856305/856305-hd_1920_1080_30fps.mp4",
+    thumbnail: "https://images.pexels.com/videos/856305/free-video-856305.jpg",
+    duration: "00:12",
+  },
+  {
+    id: 4,
+    title: "Waves Crashing on Beach",
+    url: "https://videos.pexels.com/video-files/857442/857442-hd_1920_1080_30fps.mp4",
+    thumbnail: "https://images.pexels.com/videos/857442/free-video-857442.jpg",
+    duration: "00:18",
+  },
+  {
+    id: 5,
+    title: "Sunset Over Mountains",
+    url: "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_large.mp4",
+    thumbnail: "https://images.pexels.com/videos/854945/free-video-854945.jpg",
+    duration: "00:22",
+  },
+  {
+    id: 6,
+    title: "Snowy Forest Path",
+    url: "https://cdn.pixabay.com/video/2022/12/04/141607-777930544_large.mp4",
+    thumbnail: "https://images.pexels.com/videos/854416/free-video-854416.jpg",
+    duration: "00:17",
+  },
+  {
+    id: 7,
+    title: "Clouds Moving Over City",
+    url: "https://media.istockphoto.com/id/1414073806/video/panning-hyper-lapse-of-freeway-interchange-and-downtown-skyline-at-night.mp4?s=mp4-640x640-is&k=20&c=NgJhhH-1_MxlAooi4cOJD4M7Dp0lMBrBjlw4Uw2oomQ=",
+    thumbnail: "https://images.pexels.com/videos/854878/free-video-854878.jpg",
+    duration: "00:21",
+  },
+  {
+    id: 8,
+    title: "Aerial View of Ocean",
+    url: "https://videos.pexels.com/video-files/855679/855679-hd_1920_1080_30fps.mp4",
+    thumbnail: "https://images.pexels.com/videos/855679/free-video-855679.jpg",
+    duration: "00:19",
+  },
+  {
+    id: 9,
+    title: "City Night Lights",
+    url: "https://cdn.pixabay.com/video/2025/01/03/250395_large.mp4",
+    thumbnail: "https://images.pexels.com/videos/854998/free-video-854998.jpg",
+    duration: "00:23",
+  },
+  {
+    id: 10,
+    title: "Mountain River Flow",
+    url: "https://cdn.pixabay.com/video/2024/02/28/202368-918049003_large.mp4",
+    thumbnail: "https://images.pexels.com/videos/854701/free-video-854701.jpg",
+    duration: "00:16",
+  },
+];
+export default mockdata;
