@@ -11,13 +11,26 @@ const productdata = [
         productReview:
           "Great phone! The camera is fantastic and the battery lasts all day.",
         dateOfReview: "2024-12-01",
+        reviewId: 1,
+        parentReviewId: null, // Original Review
       },
       {
         userId: 102,
         username: "jane_smith",
         productReview:
-          "Very good performance, but the screen could be brighter.",
+          "I agree! But do you feel the screen brightness could be better?",
         dateOfReview: "2024-12-02",
+        reviewId: 2,
+        parentReviewId: 1, // Reply to john_doe
+      },
+      {
+        userId: 101,
+        username: "john_doe",
+        productReview:
+          "Yeah, I noticed that too. But the battery life makes up for it.",
+        dateOfReview: "2024-12-03",
+        reviewId: 3,
+        parentReviewId: 2, // Reply to jane_smith
       },
     ],
   },
@@ -34,20 +47,34 @@ const productdata = [
         productReview:
           "The laptop is very fast and portable, but the keyboard is a bit stiff.",
         dateOfReview: "2024-11-25",
+        reviewId: 4,
+        parentReviewId: null,
       },
       {
         userId: 104,
         username: "bob_jones",
+        productReview: "Does it get warm during long usage?",
+        dateOfReview: "2024-11-26",
+        reviewId: 5,
+        parentReviewId: 4, // Reply to alice_williams
+      },
+      {
+        userId: 103,
+        username: "alice_williams",
         productReview:
-          "Love the performance and design! However, I wish the battery life was longer.",
+          "A little, but it stays manageable. A cooling pad helps!",
         dateOfReview: "2024-11-27",
+        reviewId: 6,
+        parentReviewId: 5, // Reply to bob_jones
       },
       {
         userId: 101,
         username: "john_doe",
         productReview:
-          "Amazing laptop for work! The keyboard is nice but could be more responsive.",
-        dateOfReview: "2024-11-30",
+          "Agreed! The cooling system is good but could be improved.",
+        dateOfReview: "2024-11-28",
+        reviewId: 7,
+        parentReviewId: 5, // Another reply to bob_jones
       },
     ],
   },
@@ -63,82 +90,27 @@ const productdata = [
         productReview:
           "Excellent sound quality! They fit comfortably, but could use better noise-canceling.",
         dateOfReview: "2024-12-05",
+        reviewId: 8,
+        parentReviewId: null,
       },
       {
         userId: 107,
         username: "emily_clark",
-        productReview:
-          "Great value for money. The sound is good but could be more immersive.",
-        dateOfReview: "2024-12-07",
-      },
-      {
-        userId: 101,
-        username: "john_doe",
-        productReview:
-          "The headphones are good, but I expected a better bass response for the price.",
-        dateOfReview: "2024-12-08",
-      },
-    ],
-  },
-  {
-    id: 4,
-    productName: "Smartwatch Pro",
-    productDescription:
-      "A feature-packed smartwatch with fitness tracking and notifications.",
-    productColor: ["Black", "Blue", "Silver"],
-    productReviews: [
-      {
-        userId: 108,
-        username: "michael_scott",
-        productReview:
-          "Love this watch! Tracks my workouts and messages. The battery life could be better.",
-        dateOfReview: "2024-12-03",
-      },
-      {
-        userId: 109,
-        username: "pam_beesly",
-        productReview:
-          "Perfect for daily use, but the screen is a bit small for some apps.",
+        productReview: "Is the bass strong enough for EDM music?",
         dateOfReview: "2024-12-06",
+        reviewId: 9,
+        parentReviewId: 8, // Reply to charlie_brown
       },
       {
-        userId: 101,
-        username: "john_doe",
-        productReview:
-          "Nice smartwatch. The fitness tracking is accurate, but the notifications could be more customizable.",
-        dateOfReview: "2024-12-09",
-      },
-    ],
-  },
-  {
-    id: 5,
-    productName: "Wireless Earbuds",
-    productDescription:
-      "Compact and comfortable wireless earbuds with superior sound quality.",
-    productColor: ["Black", "White"],
-    productReviews: [
-      {
-        userId: 110,
-        username: "andy_bernard",
-        productReview:
-          "Great sound, but the fit could be better for longer listening sessions.",
-        dateOfReview: "2024-12-04",
-      },
-      {
-        userId: 111,
-        username: "stanley_hudson",
-        productReview:
-          "Good quality, but the battery drains faster than expected.",
-        dateOfReview: "2024-12-08",
-      },
-      {
-        userId: 101,
-        username: "john_doe",
-        productReview:
-          "Comfortable earbuds with good sound quality. They could have a longer battery life.",
-        dateOfReview: "2024-12-10",
+        userId: 106,
+        username: "charlie_brown",
+        productReview: "Yeah, but not as deep as studio headphones.",
+        dateOfReview: "2024-12-07",
+        reviewId: 10,
+        parentReviewId: 9, // Reply to emily_clark
       },
     ],
   },
 ];
+
 export default productdata;
