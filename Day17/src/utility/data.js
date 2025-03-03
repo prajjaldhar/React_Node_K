@@ -32,7 +32,8 @@ const shows = [
     name: "Moon Knight",
     description:
       "Steven Grant and mercenary Marc Spector investigate the mysteries of the Egyptian gods from inside the same body.",
-    image: "https://image.tmdb.org/t/p/w500/yZVxPKlTnFUhTqbcTgXMydp6I1k.jpg",
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 6,
@@ -53,7 +54,8 @@ const shows = [
     name: "She-Hulk: Attorney at Law",
     description:
       "Jennifer Walters, a lawyer specializing in superhuman-oriented legal cases, must navigate the complicated life of a single, green, 6-foot-7-inch hulk.",
-    image: "https://image.tmdb.org/t/p/w500/6UqbcDQhCYpxboK58Z7uAhoibxG.jpg",
+    image:
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/08/FZUnyotX0AAziCc.jpg",
   },
   {
     id: 9,
@@ -102,7 +104,8 @@ const shows = [
     name: "High School Musical: The Musical: The Series",
     description:
       "A group of high school students stage a performance of 'High School Musical' for their winter theater production, only to realize that as much drama happens offstage as onstage.",
-    image: "https://image.tmdb.org/t/p/w500/zRHh4FhzHzX6Ksc7xC8Z3g6b2Qp.jpg",
+    image:
+      "https://lumiere-a.akamaihd.net/v1/images/hsmtmts_s4_2909x3636_1_bb717e4f.jpeg?region=0,0,1600,2000",
   },
 ];
 
