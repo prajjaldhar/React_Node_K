@@ -6,7 +6,9 @@ import ProductCard from "../Components/ProductCard";
 import Banner from "../Components/Banner";
 import Footer from "../Components/Footer";
 
-const HomePage = () => {
+const HomePage = ({ ...productdata }) => {
+  console.log(productdata);
+
   return (
     <div>
       <NavBar />

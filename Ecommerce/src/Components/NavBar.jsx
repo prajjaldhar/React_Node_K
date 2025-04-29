@@ -22,33 +22,64 @@ const NavBar = () => {
               />
             </div>
             {/* Right Icons */}
-            <div className="flex items-center space-x-6">
+            <div className="flex items-center space-x-6 relative">
               <Link
                 to="/"
                 className="text-gray-700 hover:text-indigo-600 font-medium text-sm hidden md:inline"
               >
                 Login
               </Link>
-              <Link
-                to="/checkout"
-                className="text-gray-700 hover:text-indigo-600 relative"
-              >
-                <svg
-                  className="w-6 h-6"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                  viewBox="0 0 24 24"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
+
+              {/* Wishlist Icon */}
+              <div className="relative group">
+                <Link
+                  to="/wishlist"
+                  className="text-gray-700 hover:text-indigo-600 relative"
                 >
-                  <path d="M3 3h2l.4 2M7 13h10l4-8H5.4" />
-                  <circle cx={9} cy={21} r={1} />
-                  <circle cx={20} cy={21} r={1} />
-                </svg>
-              </Link>
+                  <svg
+                    className="w-6 h-6"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                    viewBox="0 0 24 24"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M20.8 4.6c-1.5-1.4-4-1.4-5.5 0l-.8.8-.8-.8c-1.5-1.4-4-1.4-5.5 0-1.6 1.5-1.6 4 0 5.5l6.3 6.2 6.3-6.2c1.6-1.5 1.6-4 0-5.5z" />
+                  </svg>
+                </Link>
+                <div className="absolute bottom-[-1.5rem] left-1/2 transform -translate-x-1/2 scale-0 group-hover:scale-100 transition-all text-xs bg-black text-white px-2 py-1 rounded-md">
+                  Wishlist
+                </div>
+              </div>
+
+              {/* Cart Icon */}
+              <div className="relative group">
+                <Link
+                  to="/checkout"
+                  className="text-gray-700 hover:text-indigo-600 relative"
+                >
+                  <svg
+                    className="w-6 h-6"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                    viewBox="0 0 24 24"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M3 3h2l.4 2M7 13h10l4-8H5.4" />
+                    <circle cx={9} cy={21} r={1} />
+                    <circle cx={20} cy={21} r={1} />
+                  </svg>
+                </Link>
+                <div className="absolute bottom-[-1.5rem] left-1/2 transform -translate-x-1/2 scale-0 group-hover:scale-100 transition-all text-xs bg-black text-white px-2 py-1 rounded-md">
+                  Cart
+                </div>
+              </div>
             </div>
           </div>
+
           {/* Bottom Categories */}
           <div className="hidden md:flex justify-center space-x-8 py-2 border-t border-gray-200 text-sm text-gray-700">
             <Link to="/mobiles" className="hover:text-indigo-600">

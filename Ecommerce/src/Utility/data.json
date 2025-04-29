@@ -7,7 +7,8 @@
     "oldPrice": 45000,
     "newPrice": 37999,
     "description": "Experience superior cooling with the LG Split AC 1.5 Ton, designed for optimal energy efficiency and rapid temperature control. Its advanced inverter technology ensures consistent cooling while minimizing power consumption. The sleek design seamlessly integrates into any room decor, offering both functionality and style. With features like auto-cleaning, sleep mode, and a high-efficiency compressor, this AC provides a comfortable environment even during the hottest days. The anti-bacterial filter ensures clean air circulation, promoting a healthier living space. Easy to install and maintain, the LG Split AC is the perfect choice for those seeking reliability and performance in one package.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1735496002/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/312475_gncie3.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1735496002/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/312475_gncie3.png?tr=w-400",
+    "createdAt": "2025-04-27"
   },
   {
     "id": 2,
@@ -17,16 +18,19 @@
     "oldPrice": 42000,
     "newPrice": 35990,
     "description": "The Samsung Inverter Split AC 1 Ton offers efficient cooling tailored for compact spaces. Its digital inverter technology adjusts power usage based on room temperature, ensuring consistent comfort while conserving energy. The sleek and modern design complements any interior, and the easy-to-use remote control provides convenience at your fingertips. Features like turbo cooling, dehumidification, and a 3-stage filtration system enhance air quality and comfort. Built with durability in mind, this AC is a reliable solution for year-round climate control in your home or office.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-400",
+    "createdAt": "2025-04-15"
   },
   {
     "id": 3,
     "productName": "Window AC 1.5 Ton",
     "brandName": "Voltas",
     "oldPrice": 35000,
+    "type": "Ac",
     "newPrice": 28999,
     "description": "Voltas Window AC 1.5 Ton is engineered for robust performance and rapid cooling. Its high-efficiency rotary compressor ensures quick temperature drops, making it ideal for medium to large rooms. The AC features a multi-stage filtration system that removes allergens and pollutants, delivering clean and fresh air. With user-friendly controls and a durable build, it offers long-lasting comfort. The eco-friendly refrigerant and energy-saving mode contribute to lower electricity bills, making it a cost-effective cooling solution for your home.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741247361/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/257366_0_dpbq76.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741247361/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/257366_0_dpbq76.png?tr=w-400",
+    "createdAt": "2025-04-02"
   },
   {
     "id": 4,
@@ -34,8 +38,10 @@
     "brandName": "Blue Star",
     "oldPrice": 39000,
     "newPrice": 32500,
+    "type": "Ac",
     "description": "Blue Star's Portable AC 1 Ton offers flexibility and convenience, allowing you to cool specific areas without permanent installation. Its compact design is perfect for apartments or rooms where traditional ACs aren't feasible. Equipped with caster wheels, it can be easily moved from one room to another. The AC features a self-evaporative system, reducing the need for manual drainage. With multiple cooling modes and a user-friendly interface, it provides personalized comfort. The built-in air purifier enhances indoor air quality, ensuring a healthier environment.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1740038224/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/270260_0_dwred6.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1740038224/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/270260_0_dwred6.png?tr=w-400",
+    "createdAt": "2025-04-28"
   },
   {
     "id": 5,
@@ -43,8 +49,10 @@
     "brandName": "Daikin",
     "oldPrice": 60000,
     "newPrice": 49999,
+    "type": "Ac",
     "description": "Daikin's Inverter AC 2 Ton is designed for large spaces, delivering powerful and efficient cooling. Its advanced inverter technology adjusts compressor speed based on room temperature, ensuring consistent comfort and energy savings. The AC features a Coanda airflow system that distributes air evenly, eliminating hotspots. With a sleek design and quiet operation, it enhances the ambiance of any room. The anti-bacterial filter and self-diagnosis function ensure clean air and easy maintenance. Ideal for homes and offices, this AC combines performance with reliability.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739775738/308916_0_ahqvjm.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739775738/308916_0_ahqvjm.png?tr=w-400",
+    "createdAt": "2025-04-07"
   },
   {
     "id": 6,
@@ -52,8 +60,10 @@
     "brandName": "Hitachi",
     "oldPrice": 41000,
     "newPrice": 35500,
+    "type": "Ac",
     "description": "Hitachi's Split AC 1.2 Ton offers efficient cooling tailored for medium-sized rooms. Its powerful compressor ensures rapid temperature control, while the eco-friendly refrigerant minimizes environmental impact. The AC features a wide-angle deflector that ensures uniform air distribution. With a sleek design and intuitive controls, it seamlessly blends into any decor. The auto-clean function and anti-bacterial filter maintain air quality, promoting a healthier living space. Energy-saving modes and low noise operation make it a practical choice for modern homes.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738660375/312230_0_jkwi5q.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738660375/312230_0_jkwi5q.png?tr=w-400",
+    "createdAt": "2025-04-27"
   },
   {
     "id": 7,
@@ -61,8 +71,10 @@
     "brandName": "Godrej",
     "oldPrice": 47000,
     "newPrice": 39900,
+    "type": "Ac",
     "description": "Godrej's Smart Split AC integrates modern technology with efficient cooling. Equipped with Wi-Fi connectivity, it allows remote operation via smartphone apps, providing convenience and control. The AC features voice command compatibility, integrating seamlessly with smart home systems. Its inverter technology ensures energy-efficient performance, while the anti-dust filter maintains air purity. With a sleek design and user-friendly interface, it offers both style and functionality. Ideal for tech-savvy users seeking comfort and innovation.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702668138/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/273742_0_uxwg9m.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702668138/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/273742_0_uxwg9m.png?tr=w-400",
+    "createdAt": "2025-04-29"
   },
   {
     "id": 8,
@@ -70,8 +82,10 @@
     "brandName": "Symphony",
     "oldPrice": 12000,
     "newPrice": 9999,
+    "type": "Cooler",
     "description": "Symphony's Air Cooler 55L provides effective cooling for larger rooms. Its powerful motor and large water tank ensure long-lasting performance, even in the hottest conditions. With a high-efficiency cooling pad and an adjustable fan speed, the cooler is designed to deliver optimal air circulation. The compact design and energy-saving features make it a cost-effective solution for your cooling needs. Easy to maintain and portable, the Symphony Air Cooler offers superior comfort during the warm months.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717426045/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/223253_0_bxsm2j.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717426045/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/223253_0_bxsm2j.png?tr=w-400",
+    "createdAt": "2025-04-30"
   },
   {
     "id": 9,
@@ -79,8 +93,10 @@
     "brandName": "Croma",
     "oldPrice": 8500,
     "newPrice": 6999,
+    "type": "Cooler",
     "description": "Croma's Personal Cooler 30L is perfect for cooling small spaces like bedrooms and offices. Its compact design is ideal for personal use, and the large water tank ensures longer cooling periods. With adjustable fan speeds and a high-efficiency cooling pad, this air cooler provides consistent, comfortable airflow. The lightweight and portable design make it easy to move from room to room. A great budget-friendly alternative to traditional air conditioning units, the Croma Personal Cooler is efficient and convenient.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717427783/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/304620_0_hdp5zi.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717427783/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/304620_0_hdp5zi.png?tr=w-400",
+    "createdAt": "2025-04-18"
   },
   {
     "id": 10,
@@ -88,8 +104,10 @@
     "brandName": "Panasonic",
     "oldPrice": 53000,
     "newPrice": 46900,
+    "type": "Ac",
     "description": "Panasonic's Dual Inverter AC offers unmatched energy efficiency and cooling performance. The dual inverter compressor adjusts the motor speed in response to temperature fluctuations, optimizing energy use and minimizing electricity bills. It is designed to cool large rooms quickly and maintain a consistent temperature. The sleek and modern design adds sophistication to any room, while features like air purification and low noise operation ensure comfort and cleanliness. Ideal for homeowners who value both performance and sustainability.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1727177033/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/213479_0_fnlwzx.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702668138/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/273742_0_uxwg9m.png?tr=w-400",
+    "createdAt": "2025-04-15"
   },
   {
     "id": 11,
@@ -97,8 +115,10 @@
     "brandName": "Carrier",
     "oldPrice": 37000,
     "newPrice": 31999,
+    "type": "Ac",
     "description": "Carrier's Window AC 1 Ton offers high-performance cooling for small to medium-sized rooms. Equipped with a rotary compressor, it quickly cools down the space while maintaining energy efficiency. The AC features a multi-stage air filtration system that eliminates allergens, dust, and odors, providing fresh and clean air. The simple, user-friendly controls and eco-friendly refrigerant make it an excellent choice for modern homes. With its quick installation and quiet operation, Carrier's Window AC provides comfort with convenience.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723980405/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/311866_0_a5q0f7.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702668138/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/273742_0_uxwg9m.png?tr=w-400",
+    "createdAt": "2025-04-14"
   },
   {
     "id": 12,
@@ -106,8 +126,10 @@
     "brandName": "Hitachi",
     "oldPrice": 46000,
     "newPrice": 39990,
+    "type": "Ac",
     "description": "Hitachi's Inverter AC 1.5 Ton is designed to provide efficient cooling while ensuring low power consumption. With advanced inverter technology, it adjusts compressor speed based on cooling requirements, saving energy while maintaining optimum comfort. The anti-bacterial filter enhances air quality, while the Coanda airflow system ensures even distribution of cool air across the room. The sleek design and quiet operation make it ideal for both homes and offices, delivering an optimal cooling experience.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1733507591/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/305128_0_sz7wdm.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702668138/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/273742_0_uxwg9m.png?tr=w-400",
+    "createdAt": "2025-04-16"
   },
   {
     "id": 13,
@@ -115,8 +137,10 @@
     "brandName": "Godrej",
     "oldPrice": 38000,
     "newPrice": 32999,
+    "type": "Ac",
     "description": "Godrej's Window AC 1.2 Ton combines efficiency and durability, providing reliable cooling for medium-sized rooms. Equipped with a high-efficiency rotary compressor, it cools quickly and reduces energy consumption. The AC features a 4-way air deflection system that ensures optimal air circulation across the room. The eco-friendly refrigerant used in this model is designed to reduce environmental impact. With easy maintenance and a sleek design, the Godrej Window AC is a great option for your cooling needs.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1726330737/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/232831_0_zve1os.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-640",
+    "createdAt": "2025-04-20"
   },
   {
     "id": 14,
@@ -124,8 +148,10 @@
     "brandName": "Daikin",
     "oldPrice": 47000,
     "newPrice": 41999,
+    "type": "Ac",
     "description": "Daikin's Split AC 1 Ton is engineered for energy-efficient cooling, perfect for small to medium-sized rooms. Featuring inverter technology, it adapts the compressor speed according to temperature fluctuations, ensuring consistent comfort while minimizing energy consumption. With its sleek design and advanced filtration system, this AC provides both comfort and clean air. The 24-hour timer and quiet operation make it ideal for bedrooms or living rooms, providing an undisturbed, comfortable environment.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737239574/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/308623_0_mjoetj.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-640",
+    "createdAt": "2025-04-21"
   },
   {
     "id": 15,
@@ -133,8 +159,10 @@
     "brandName": "Samsung",
     "oldPrice": 40000,
     "newPrice": 34999,
+    "type": "Ac",
     "description": "Samsung's Smart Window AC features modern technology to keep your room cool and comfortable. Equipped with Wi-Fi capabilities, it can be controlled remotely from your smartphone, giving you control over the temperature no matter where you are. Its energy-efficient compressor minimizes electricity consumption while still providing excellent cooling performance. The AC comes with an integrated air purifying filter that removes dust and allergens, ensuring you breathe clean, fresh air. With its user-friendly design, the Samsung Smart Window AC is perfect for modern, tech-savvy homes.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737328520/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/313009_0_pg0pp1.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-640",
+    "createdAt": "2025-04-22"
   },
   {
     "id": 16,
@@ -142,8 +170,10 @@
     "brandName": "Blue Star",
     "oldPrice": 42000,
     "newPrice": 35999,
+    "type": "Ac",
     "description": "Blue Star's Portable AC 1.5 Ton is an ideal solution for those who need flexible cooling in different rooms. With an efficient compressor and quick cooling capabilities, it cools spaces swiftly and evenly. The AC is easy to transport, thanks to its portable design and caster wheels. It also features a self-evaporative system, reducing the need for manual water drainage. Its advanced air filtration system ensures clean air, while its multiple cooling modes provide personalized comfort for every user.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739067801/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/315536_0_skgqbn.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-640",
+    "createdAt": "2025-04-23"
   },
   {
     "id": 17,
@@ -151,8 +181,10 @@
     "brandName": "Voltas",
     "oldPrice": 48000,
     "newPrice": 40990,
+    "type": "Ac",
     "description": "Voltas Split AC 1.5 Ton combines energy-efficient cooling with high-performance technology. The inverter compressor adjusts speed to minimize power consumption while maintaining optimal cooling comfort. It is equipped with a multi-stage filtration system that ensures pure and fresh air. Its compact design and quiet operation make it perfect for bedrooms and small offices. With features like auto-cleaning, sleep mode, and low noise levels, this AC provides convenience and comfort year-round.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737982535/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/316456_0_xphvmb.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356999/311918_0_f4kxwv.png?tr=w-640",
+    "createdAt": "2025-04-16"
   },
   {
     "id": 18,
@@ -160,8 +192,10 @@
     "brandName": "Symphony",
     "oldPrice": 15000,
     "newPrice": 12999,
+    "type": "Cooler",
     "description": "Symphony's Air Cooler 70L is designed for larger rooms, offering superior cooling and air circulation. With a high-efficiency honeycomb cooling pad and large water tank, it ensures long-lasting comfort even in the hottest conditions. The AC's adjustable fan speed allows you to customize the airflow, and its compact design makes it easy to place in any room. The Symphony Air Cooler is an energy-efficient alternative to traditional ACs, helping you save on electricity bills while keeping you cool throughout the day.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717426045/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/248201_0_mrllxu.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738660375/312230_0_jkwi5q.png?tr=w-480",
+    "createdAt": "2025-04-17"
   },
   {
     "id": 19,
@@ -169,8 +203,10 @@
     "brandName": "Croma",
     "oldPrice": 7000,
     "newPrice": 5999,
+    "type": "Cooler",
     "description": "Croma's Personal Cooler 15L is a portable and compact solution for staying cool in smaller spaces. It features a powerful fan and an efficient cooling system to provide fast relief from heat. The easy-to-use control panel allows you to adjust fan speed and cooling intensity based on your needs. Its small footprint and quiet operation make it perfect for use in bedrooms or offices. With a sleek, modern design, the Croma Personal Cooler offers convenience and comfort, making it a great choice for personal cooling.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728457443/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/256892_0_ogdq0u.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738660375/312230_0_jkwi5q.png?tr=w-480",
+    "createdAt": "2025-04-19"
   },
   {
     "id": 20,
@@ -178,8 +214,10 @@
     "brandName": "Panasonic",
     "oldPrice": 38000,
     "newPrice": 32999,
+    "type": "Ac",
     "description": "Panasonic's Dual Inverter AC 1 Ton is the perfect combination of energy efficiency and powerful cooling. The dual inverter technology ensures that the compressor adjusts speed based on temperature variations, delivering superior cooling performance while minimizing energy consumption. With an eco-friendly refrigerant and quiet operation, this AC is ideal for environmentally conscious users. The sleek and modern design fits seamlessly into any room, while the air-purifying filter ensures fresh, clean air throughout the room.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728458350/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/239579_0_pu7d0r.png?tr=w-400"
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1741356430/311927_0_qbldwa.png?tr=w-640",
+    "createdAt": "2025-04-24"
   },
 
   {
@@ -188,10 +226,12 @@
     "brandName": "HP",
     "oldPrice": 49999,
     "newPrice": 44999,
+    "type": "Laptop",
     "description": "HP's 15.6\" Laptop powered by Intel Core i5 offers high-speed performance for everyday computing. Equipped with 8GB of RAM and a 512GB SSD, it ensures smooth multitasking, quick boot times, and ample storage for files, documents, and multimedia. The 15.6\" full HD display provides sharp visuals, making it perfect for both work and entertainment. Whether you're working on spreadsheets or watching videos, the HP Laptop delivers exceptional value and performance at an affordable price.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737895127/Croma%20Assets/Laptops/Images/323947_0_vydgjv.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459652/Croma%20Assets/Computers%20Peripherals/Laptop/Images/308301_0_xryzen.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-28"
   },
   {
     "id": 22,
@@ -199,10 +239,12 @@
     "brandName": "Lenovo",
     "oldPrice": 39999,
     "newPrice": 34999,
+    "type": "Laptop",
     "description": "Lenovo's 14\" Laptop with Intel Core i3 processor provides a lightweight and compact solution for daily tasks. Featuring 4GB RAM and a 256GB SSD, it delivers a seamless experience for browsing, document editing, and media consumption. The 14-inch display provides clear and vibrant visuals, while the ergonomic design ensures a comfortable user experience. This budget-friendly Lenovo Laptop is perfect for students and professionals who need reliable performance for everyday tasks.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728393847/Croma%20Assets/Laptops/Images/307022_0_yr9vpx.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728567570/Croma%20Assets/Computers%20Peripherals/Laptop/Images/307439_0_liai0v.png?tr=w-640",
     "ram": "4GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-30"
   },
   {
     "id": 23,
@@ -210,10 +252,12 @@
     "brandName": "Acer",
     "oldPrice": 58999,
     "newPrice": 53999,
+    "type": "Laptop",
     "description": "Acer's 15.6\" Laptop with AMD Ryzen 5 processor provides exceptional performance for gaming, work, and entertainment. Equipped with 8GB RAM and a 512GB SSD, it ensures smooth multitasking and fast data access. The laptop features a full HD display with vibrant color accuracy, making it perfect for media consumption. Whether you're gaming or working, Acer's Ryzen 5 Laptop delivers high-performance computing at an excellent price point.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718633749/Croma%20Assets/Laptops/Images/312133_0_jok9zm.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728567570/Croma%20Assets/Computers%20Peripherals/Laptop/Images/307439_0_liai0v.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-02"
   },
   {
     "id": 24,
@@ -221,10 +265,12 @@
     "brandName": "Apple",
     "oldPrice": 79999,
     "newPrice": 74999,
+    "type": "Laptop",
     "description": "Apple's 13.3\" Laptop powered by Intel Core i7 combines cutting-edge technology with sleek design. Featuring 16GB RAM and a 512GB SSD, it offers exceptional speed and storage for demanding tasks like video editing and programming. The retina display ensures stunning clarity and vivid colors, making it a great choice for creative professionals. With macOS, you get seamless integration with Apple's ecosystem, ensuring smooth workflows across devices.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718108226/Croma%20Assets/Laptops/Images/310421_0_lmqhvn.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "16GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-10"
   },
   {
     "id": 25,
@@ -232,10 +278,12 @@
     "brandName": "Dell",
     "oldPrice": 74999,
     "newPrice": 69999,
+    "type": "Laptop",
     "description": "Dell's 15.6\" Laptop with Intel Core i7 processor is designed for performance-driven tasks like gaming, video editing, and heavy multitasking. With 16GB RAM and a 1TB SSD, it provides exceptional performance and storage for all your needs. The full HD display offers clear and crisp visuals, while the sleek design ensures portability without compromising on features. Dell’s advanced cooling system ensures optimal performance during long work hours or gaming sessions.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737324450/Croma%20Assets/Laptops/Images/306233_0_k8fuda.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "16GB",
-    "storage": "1TB SSD"
+    "storage": "1TB SSD",
+    "createdAt": "2025-04-23"
   },
   {
     "id": 26,
@@ -243,10 +291,12 @@
     "brandName": "Asus",
     "oldPrice": 63999,
     "newPrice": 58999,
+    "type": "Laptop",
     "description": "Asus's 13.3\" Laptop with Intel Core i5 is a powerful device packed into a portable frame. With 8GB RAM and a 512GB SSD, it delivers fast performance for all your productivity needs. The full HD display provides sharp, vibrant visuals, perfect for watching videos or working on projects. Its ultra-slim design makes it easy to carry, while the long battery life ensures you can work on the go. The Asus Intel Core i5 Laptop is perfect for users looking for performance in a compact device.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737891010/Croma%20Assets/Laptops/Images/321143_0_iqv7vq.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-13"
   },
   {
     "id": 27,
@@ -254,10 +304,12 @@
     "brandName": "Lenovo",
     "oldPrice": 52999,
     "newPrice": 47999,
+    "type": "Laptop",
     "description": "Lenovo's 14\" Laptop with Intel Core i5 processor combines high performance with portability. Equipped with 8GB RAM and a 512GB SSD, it ensures smooth multitasking and fast data access. The 14-inch full HD display delivers bright and clear visuals, making it ideal for both work and entertainment. With its sleek design and long battery life, this Lenovo laptop is the perfect companion for students and professionals who need power on the go.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737891011/Croma%20Assets/Laptops/Images/318955_0_pvh0mc.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-27"
   },
   {
     "id": 28,
@@ -265,10 +317,12 @@
     "brandName": "HP",
     "oldPrice": 35999,
     "newPrice": 31999,
+    "type": "Laptop",
     "description": "HP's 15.6\" Laptop with Intel Core i3 is designed for budget-conscious users who need reliable performance for everyday tasks. Featuring 4GB RAM and a 256GB SSD, it delivers fast performance for basic computing needs like browsing the web, editing documents, and watching movies. The 15.6-inch display provides clear visuals, while the sleek design ensures portability. This laptop is perfect for students and individuals looking for a value-packed device for daily use.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723794252/Croma%20Assets/Laptops/Images/315826_0_x5jmzv.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "4GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-29"
   },
   {
     "id": 29,
@@ -276,10 +330,12 @@
     "brandName": "Asus",
     "oldPrice": 44999,
     "newPrice": 39999,
+    "type": "Laptop",
     "description": "Asus's 14\" Laptop with AMD Ryzen 3 processor offers excellent performance for basic computing tasks. Equipped with 4GB RAM and a 256GB SSD, it delivers fast data access and smooth multitasking. The 14-inch display offers clear and bright visuals, ideal for everyday use like browsing the internet, watching videos, and working on documents. Its compact design and lightweight build make it easy to carry wherever you go, making this Asus laptop perfect for students and light users.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617362/Croma%20Assets/Laptops/Images/314207_0_xvgtfn.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "4GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-17"
   },
   {
     "id": 30,
@@ -287,10 +343,12 @@
     "brandName": "MacBook Air",
     "oldPrice": 99999,
     "newPrice": 92999,
+    "type": "Laptop",
     "description": "The MacBook Air 13.3\" with Intel Core i5 combines performance, portability, and exceptional design. With 8GB RAM and a 256GB SSD, it delivers quick access to files and smooth performance for both work and entertainment. The Retina display offers stunning clarity and color accuracy, while the Apple ecosystem ensures seamless integration with other Apple devices. Lightweight and with impressive battery life, the MacBook Air is perfect for users looking for a premium laptop experience.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738456945/Croma%20Assets/Laptops/Images/310452_0_jkeohs.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684474651/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/264335_0_dcszry.png?tr=w-640",
     "ram": "8GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-18"
   },
   {
     "id": 31,
@@ -298,10 +356,12 @@
     "brandName": "Samsung",
     "oldPrice": 31999,
     "newPrice": 28999,
+    "type": "Mobile",
     "description": "The Samsung 6.5\" Smartphone features an AMOLED display for vibrant colors and crisp details. Powered by the latest Exynos chipset, it ensures smooth performance for gaming, streaming, and multitasking. With 6GB RAM and a 128GB internal storage, you have plenty of space for apps, photos, and videos. The 48MP camera allows you to capture stunning photos and videos, while the 4000mAh battery ensures long-lasting performance throughout the day. It’s an excellent choice for users seeking a budget-friendly smartphone with premium features.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617505/Croma%20Assets/Mobiles/Images/315728_0_jmptsd.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "6GB",
-    "storage": "128GB"
+    "storage": "128GB",
+    "createdAt": "2025-04-18"
   },
   {
     "id": 32,
@@ -309,10 +369,12 @@
     "brandName": "OnePlus",
     "oldPrice": 36999,
     "newPrice": 32999,
+    "type": "Mobile",
     "description": "The OnePlus 6.4\" Super AMOLED Smartphone offers stunning visuals with its vibrant display. Powered by Snapdragon 720G, it ensures smooth gaming and multitasking performance. With 8GB RAM and 128GB storage, it provides ample space for apps, photos, and videos. The 64MP camera captures high-quality images and videos, and the 4000mAh battery supports fast charging for minimal downtime. This smartphone delivers flagship performance at a competitive price point.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718193800/Croma%20Assets/Mobiles/Images/318915_0_vubmgt.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "8GB",
-    "storage": "128GB"
+    "storage": "128GB",
+    "createdAt": "2025-04-19"
   },
   {
     "id": 33,
@@ -320,10 +382,12 @@
     "brandName": "Realme",
     "oldPrice": 14999,
     "newPrice": 12999,
+    "type": "Mobile",
     "description": "Realme's 6.2\" Smartphone offers an HD+ display for sharp and clear visuals. Powered by the MediaTek Helio G85 processor, it delivers a smooth experience for day-to-day tasks. The phone comes with 4GB RAM and 64GB storage, perfect for casual use such as browsing, social media, and light gaming. The 13MP dual-camera system ensures good quality photos, and the 5000mAh battery provides all-day usage. Ideal for users who want an affordable yet reliable smartphone.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737331862/Croma%20Assets/Mobiles/Images/317973_0_cwqdsv.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "4GB",
-    "storage": "64GB"
+    "storage": "64GB",
+    "createdAt": "2025-04-19"
   },
   {
     "id": 34,
@@ -331,10 +395,12 @@
     "brandName": "Motorola",
     "oldPrice": 24999,
     "newPrice": 22999,
+    "type": "Mobile",
     "description": "The Motorola 6.7\" Smartphone comes with an FHD+ display for immersive visuals, perfect for watching movies, playing games, and browsing. Powered by the Qualcomm Snapdragon 730G processor, it ensures smooth performance. With 6GB RAM and 128GB storage, it offers excellent multitasking capabilities. The 64MP quad-camera setup captures detailed and vibrant photos, and the 5000mAh battery ensures long-lasting performance. Ideal for users who enjoy media-rich content and gaming.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1727770297/Croma%20Assets/Mobiles/Images/310102_0_bkjzch.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "6GB",
-    "storage": "128GB"
+    "storage": "128GB",
+    "createdAt": "2025-04-28"
   },
   {
     "id": 35,
@@ -342,10 +408,12 @@
     "brandName": "Apple",
     "oldPrice": 74999,
     "newPrice": 69999,
+    "type": "Mobile",
     "description": "Apple's 5.8\" OLED Smartphone features a premium display with vibrant colors and exceptional clarity. Powered by the A14 Bionic chip, it delivers top-tier performance for gaming, productivity, and media consumption. With 6GB RAM and 128GB storage, it offers smooth multitasking and fast access to files. The dual-camera system captures stunning photos and videos, and the 2815mAh battery ensures long-lasting performance throughout the day. An excellent choice for users looking for a premium smartphone experience.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723829686/Croma%20Assets/Mobiles/Images/315402_0_myk1sl.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "6GB",
-    "storage": "128GB"
+    "storage": "128GB",
+    "createdAt": "2025-04-22"
   },
   {
     "id": 36,
@@ -353,10 +421,12 @@
     "brandName": "Xiaomi",
     "oldPrice": 19999,
     "newPrice": 17999,
+    "type": "Mobile",
     "description": "Xiaomi's 6.6\" Smartphone offers a full LCD display with vibrant colors and good visibility. Powered by Snapdragon 665, it provides solid performance for everyday tasks like browsing, social media, and light gaming. With 4GB RAM and 64GB storage, it's perfect for users who don’t require extensive storage but need an affordable option. The 48MP camera delivers decent photo quality, while the 5020mAh battery ensures all-day usage. Ideal for those looking for a reliable, budget-friendly phone.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617365/Croma%20Assets/Mobiles/Images/312913_0_ixfuxu.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "4GB",
-    "storage": "64GB"
+    "storage": "64GB",
+    "createdAt": "2025-04-18"
   },
   {
     "id": 37,
@@ -364,10 +434,12 @@
     "brandName": "Oppo",
     "oldPrice": 24999,
     "newPrice": 22999,
+    "type": "Mobile",
     "description": "The Oppo 6.43\" AMOLED Smartphone is designed for a premium visual experience with deep blacks and vibrant colors. Powered by the MediaTek Helio P95 processor, it offers smooth performance for gaming and multitasking. Equipped with 6GB RAM and 128GB storage, this phone ensures ample space for your apps and media. The 48MP triple-camera system captures sharp and vivid photos, and the 4310mAh battery keeps you powered throughout the day. Perfect for users seeking style, performance, and value.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737891012/Croma%20Assets/Mobiles/Images/313392_0_ik3pfg.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1729693996/Croma%20Assets/Communication/Mobiles/Images/300738_0_nj18b8.png?tr=w-640",
     "ram": "6GB",
-    "storage": "128GB"
+    "storage": "128GB",
+    "createdAt": "2025-04-11"
   },
   {
     "id": 38,
@@ -375,10 +447,12 @@
     "brandName": "Nokia",
     "oldPrice": 13999,
     "newPrice": 11999,
+    "type": "Mobile",
     "description": "Nokia's 5.5\" Smartphone offers a compact design with a bright and clear display. Powered by Snapdragon 439, it is a solid option for users who need basic smartphone functionality like calling, texting, and social media. With 3GB RAM and 32GB storage, it provides just the right amount of storage and smooth performance for casual use. The 13MP rear camera captures good-quality photos, and the 4000mAh battery ensures long-lasting usage. This phone is perfect for budget-conscious users.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617368/Croma%20Assets/Mobiles/Images/313072_0_zktjbp.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1735042318/Croma%20Assets/Communication/Mobiles/Images/312576_0_knziof.png?tr=w-400",
     "ram": "3GB",
-    "storage": "32GB"
+    "storage": "32GB",
+    "createdAt": "2025-04-11"
   },
   {
     "id": 39,
@@ -386,10 +460,12 @@
     "brandName": "Vivo",
     "oldPrice": 21999,
     "newPrice": 18999,
+    "type": "Mobile",
     "description": "Vivo's 6.7\" Smartphone comes with a full HD+ display, providing a sharp and immersive viewing experience. Powered by the MediaTek Helio G80 processor, it ensures smooth performance for gaming, social media, and multitasking. With 4GB RAM and 64GB storage, it offers decent storage for casual users. The 48MP rear camera lets you capture beautiful photos, and the 5000mAh battery ensures you stay powered up all day long. A great choice for users looking for a reliable and budget-friendly smartphone.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617371/Croma%20Assets/Mobiles/Images/313085_0_kwzobk.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1735042318/Croma%20Assets/Communication/Mobiles/Images/312576_0_knziof.png?tr=w-400",
     "ram": "4GB",
-    "storage": "64GB"
+    "storage": "64GB",
+    "createdAt": "2025-04-12"
   },
   {
     "id": 40,
@@ -397,10 +473,12 @@
     "brandName": "Infinix",
     "oldPrice": 10999,
     "newPrice": 9999,
+    "type": "Mobile",
     "description": "Infinix's 5.5\" Smartphone features an HD+ display for decent clarity and brightness. Powered by the MediaTek Helio A22, it is designed for users who require basic smartphone functionality. With 3GB RAM and 32GB storage, this phone provides a smooth experience for calling, texting, and social media browsing. The 13MP rear camera captures decent photos, and the 4000mAh battery provides long-lasting performance throughout the day. Ideal for first-time smartphone users on a budget.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617375/Croma%20Assets/Mobiles/Images/311509_0_gtckge.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1735042318/Croma%20Assets/Communication/Mobiles/Images/312576_0_knziof.png?tr=w-400",
     "ram": "3GB",
-    "storage": "32GB"
+    "storage": "32GB",
+    "createdAt": "2025-04-09"
   },
   {
     "id": 41,
@@ -408,10 +486,12 @@
     "brandName": "Dell",
     "oldPrice": 54999,
     "newPrice": 49999,
+    "type": "Laptop",
     "description": "The Dell 15.6\" Laptop is equipped with a Full HD display that delivers crisp visuals and vibrant colors. Powered by an Intel Core i5 processor, it offers smooth performance for daily tasks, productivity, and casual gaming. With 8GB RAM and a 512GB SSD, it ensures fast boot-up and smooth multitasking. The laptop's long-lasting battery allows you to work for hours without interruption. Its slim design makes it easy to carry, making it an excellent choice for professionals and students alike.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420587/Croma%20Assets/Laptops/Images/318547_0_uitosn.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-08"
   },
   {
     "id": 42,
@@ -419,10 +499,12 @@
     "brandName": "HP",
     "oldPrice": 64999,
     "newPrice": 58999,
+    "type": "Laptop",
     "description": "HP's 14\" Ultra-thin Laptop features a high-resolution display that delivers crisp and bright visuals. It is powered by the Intel Core i7 processor, providing high performance for demanding tasks such as video editing, programming, and gaming. The 16GB RAM and 1TB SSD allow for quick access to files and smooth multitasking. With its sleek and portable design, it is perfect for professionals and students who need a powerful and lightweight machine on the go.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420589/Croma%20Assets/Laptops/Images/319185_0_zduyyj.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "16GB",
-    "storage": "1TB SSD"
+    "storage": "1TB SSD",
+    "createdAt": "2025-04-07"
   },
   {
     "id": 43,
@@ -430,10 +512,12 @@
     "brandName": "Apple",
     "oldPrice": 99999,
     "newPrice": 94999,
+    "type": "Laptop",
     "description": "Apple's 13.3\" Retina Laptop offers superior display quality, delivering vibrant colors and crystal-clear details. Powered by the Apple M1 chip, it offers exceptional performance and battery life for multitasking, programming, and creative work. The 8GB RAM and 512GB SSD provide ample space for storing your files and applications. With its slim and stylish design, it's an ideal choice for professionals and students who need a high-performance machine with portability.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718617489/Croma%20Assets/Laptops/Images/318653_0_xytyfg.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-16"
   },
   {
     "id": 44,
@@ -441,10 +525,12 @@
     "brandName": "Lenovo",
     "oldPrice": 46999,
     "newPrice": 42999,
+    "type": "Laptop",
     "description": "The Lenovo 15.6\" Laptop features a Full HD display, making it perfect for watching movies, browsing the web, and working on documents. Powered by an Intel Core i5 processor, it delivers smooth performance for everyday tasks. With 8GB RAM and 512GB SSD, you can store your files and enjoy fast boot-up times. The laptop’s battery offers up to 8 hours of continuous use, making it perfect for both work and play. It’s a great choice for those who need a reliable laptop at an affordable price.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420592/Croma%20Assets/Laptops/Images/318553_0_yxwwjw.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-04"
   },
   {
     "id": 45,
@@ -452,10 +538,12 @@
     "brandName": "Acer",
     "oldPrice": 34999,
     "newPrice": 29999,
+    "type": "Laptop",
     "description": "The Acer 14\" Laptop features a Full HD display with thin bezels, providing a modern and immersive viewing experience. Powered by an Intel Core i3 processor, it handles daily tasks like browsing, working on documents, and streaming videos with ease. The 4GB RAM and 256GB SSD allow for fast file access and smooth performance. Its sleek design and long battery life make it an ideal choice for students and professionals on the go.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420594/Croma%20Assets/Laptops/Images/318876_0_gglwbm.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "4GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-05"
   },
   {
     "id": 46,
@@ -463,10 +551,12 @@
     "brandName": "Asus",
     "oldPrice": 54999,
     "newPrice": 49999,
+    "type": "Laptop",
     "description": "The Asus 15.6\" Laptop with Full HD display provides clear and vibrant visuals for all your tasks. Powered by the Intel Core i5 processor, it offers smooth performance for both productivity and entertainment. With 8GB RAM and 512GB SSD, it ensures fast data access and ample storage for your files. The laptop features a long-lasting battery that allows you to work and play for hours without needing to charge. Its lightweight design makes it easy to carry around, making it a great option for students and professionals.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420596/Croma%20Assets/Laptops/Images/318654_0_xozaij.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "8GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-26"
   },
   {
     "id": 47,
@@ -474,10 +564,12 @@
     "brandName": "MSI",
     "oldPrice": 72999,
     "newPrice": 68999,
+    "type": "Laptop",
     "description": "MSI’s 15.6\" Full HD Laptop offers high performance for gamers and professionals. Powered by an Intel Core i7 processor and NVIDIA GeForce GTX graphics, it delivers outstanding gaming performance and content creation capabilities. With 16GB RAM and a 1TB SSD, you’ll have ample space and speed for storing and accessing large files. The laptop’s long battery life and sleek design make it perfect for both work and play, whether at home or on the go.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420598/Croma%20Assets/Laptops/Images/318578_0_vgfgdr.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "16GB",
-    "storage": "1TB SSD"
+    "storage": "1TB SSD",
+    "createdAt": "2025-04-19"
   },
   {
     "id": 48,
@@ -485,10 +577,12 @@
     "brandName": "Microsoft",
     "oldPrice": 84999,
     "newPrice": 79999,
+    "type": "Laptop",
     "description": "The Microsoft 13.3\" Laptop offers stunning Retina display with excellent color accuracy, making it perfect for content creators and professionals. Powered by Intel’s 10th Gen Core i5 processor, it handles demanding tasks with ease. The 8GB RAM and 256GB SSD ensure smooth performance for multitasking and fast access to files. It’s lightweight and portable, with a battery life that can last up to 10 hours, making it an excellent choice for those who need a powerful yet portable laptop.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420600/Croma%20Assets/Laptops/Images/318862_0_hmnsld.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "8GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-10"
   },
   {
     "id": 49,
@@ -496,10 +590,12 @@
     "brandName": "Samsung",
     "oldPrice": 74999,
     "newPrice": 69999,
+    "type": "Laptop",
     "description": "Samsung’s 14\" Laptop with Full HD display provides vibrant visuals, making it ideal for multimedia, work, and casual gaming. Powered by the Intel Core i7 processor and NVIDIA GeForce MX250 graphics, it delivers fast performance for a variety of applications. With 16GB RAM and a 512GB SSD, it offers plenty of space and speed for all your needs. The laptop is lightweight, slim, and has an impressive battery life, making it perfect for students, professionals, and on-the-go users.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420602/Croma%20Assets/Laptops/Images/318876_0_xmwmzm.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "16GB",
-    "storage": "512GB SSD"
+    "storage": "512GB SSD",
+    "createdAt": "2025-04-30"
   },
   {
     "id": 50,
@@ -507,9 +603,11 @@
     "brandName": "Lenovo",
     "oldPrice": 39999,
     "newPrice": 35999,
+    "type": "Laptop",
     "description": "Lenovo's 15.6\" Laptop features a Full HD display with clear visuals for your everyday computing needs. Powered by an Intel Core i3 processor, it handles tasks like browsing, document editing, and media consumption smoothly. The 4GB RAM and 256GB SSD ensure efficient performance and quick access to files. This affordable laptop also features a long-lasting battery, making it ideal for students, professionals, or anyone seeking a reliable machine for everyday use.",
-    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723420604/Croma%20Assets/Laptops/Images/318653_0_zzkhmr.png?tr=w-400",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1739459149/Croma%20Assets/Computers%20Peripherals/Laptop/Images/306422_0_i74ejh.png?tr=w-640",
     "ram": "4GB",
-    "storage": "256GB SSD"
+    "storage": "256GB SSD",
+    "createdAt": "2025-04-29"
   }
 ]

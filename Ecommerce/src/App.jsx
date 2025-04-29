@@ -2,6 +2,9 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import "./App.css";
 
+//data import
+import productdata from "./Utility/data.json";
+
 // Pages
 import HomePage from "./Pages/HomePage";
 import ProductDesc from "./Pages/ProductDesc";
@@ -21,7 +24,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/home" element={<HomePage />} />
+        <Route path="/home" element={<HomePage productdata={productdata} />} />
         <Route path="/product" element={<ProductDesc />} />
         <Route path="/checkout" element={<CheckOut />} />
         <Route path="/" element={<LoginPage />} />
