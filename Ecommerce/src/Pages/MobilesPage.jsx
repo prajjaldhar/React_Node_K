@@ -5,8 +5,7 @@ import ProductCard from "../Components/ProductCard";
 
 const MobilesPage = () => {
   return (
-    <div className="bg-blue-100">
-      <NavBar />
+    <div className="bg-blue-100 mt-25">
       <section className="py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row gap-8">
           {/* Filters Sidebar */}
@@ -159,7 +158,6 @@ const MobilesPage = () => {
           </div>
         </div>
       </section>
-      <Footer />
     </div>
   );
 };

@@ -1,13 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const ProductCard = () => {
+const ProductCard = ({ key, product }) => {
   return (
-    <div className="w-[250px] bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 mb-8">
+    <div
+      key={key}
+      className="w-[250px] bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 mb-8"
+    >
       <Link to="/product">
         <img
           className="w-full h-48 object-contain"
-          src="https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717426045/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/223253_0_bxsm2j.png?tr=w-400"
+          src={product && product.imageUrl}
           alt="Product"
         />
       </Link>

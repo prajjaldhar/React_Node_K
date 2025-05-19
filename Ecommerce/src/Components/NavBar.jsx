@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
   return (
     <div>
-      <nav className="bg-white shadow-md sticky top-0 z-50">
+      <nav className="bg-white shadow-gray-900 fixed top-0 left-0 right-0 z-50 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16 items-center">
             {/* Logo */}
@@ -23,12 +23,29 @@ const NavBar = () => {
             </div>
             {/* Right Icons */}
             <div className="flex items-center space-x-6 relative">
-              <Link
-                to="/"
-                className="text-gray-700 hover:text-indigo-600 font-medium text-sm hidden md:inline"
-              >
-                Login
-              </Link>
+              <div className="relative group hidden md:inline">
+                <Link
+                  to="/"
+                  className="text-gray-700 hover:text-indigo-600 font-medium text-sm"
+                >
+                  <svg
+                    className="w-6 h-6"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                    viewBox="0 0 24 24"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" />
+                    <polyline points="10 17 15 12 10 7" />
+                    <line x1="15" y1="12" x2="3" y2="12" />
+                  </svg>
+                </Link>
+                <div className="absolute bottom-[-1.5rem] left-1/2 transform -translate-x-1/2 scale-0 group-hover:scale-100 transition-all text-xs bg-black text-white px-2 py-1 rounded-md">
+                  Login
+                </div>
+              </div>
 
               {/* Wishlist Icon */}
               <div className="relative group">

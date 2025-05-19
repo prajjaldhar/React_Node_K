@@ -5,10 +5,8 @@ import Footer from "../Components/Footer";
 
 const ContactUsPage = () => {
   return (
-    <div className="bg-blue-100">
-      <NavBar />
+    <div className="bg-blue-100 mt-25">
       <Contact />
-      <Footer />
     </div>
   );
 };

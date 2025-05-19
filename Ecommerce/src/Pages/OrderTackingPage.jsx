@@ -5,10 +5,8 @@ import Footer from "../Components/Footer";
 
 const OrderTackingPage = () => {
   return (
-    <div className="bg-blue-100">
-      <NavBar />
+    <div className="bg-blue-100 mt-25">
       <OrderTracking />
-      <Footer />
     </div>
   );
 };
