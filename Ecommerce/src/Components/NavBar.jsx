@@ -1,7 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { useProduct } from "../services/ProductContextApi";
 
 const NavBar = () => {
+  const products = useProduct();
+
+  const categories = [
+    ...new Set(products.map((prod) => prod.type?.toLowerCase().trim())),
+  ];
+  
+  console.log(`categories>>>>>>`, categories);
   return (
     <div>
       <nav className="bg-white shadow-gray-900 fixed top-0 left-0 right-0 z-50 border-b border-gray-200">
@@ -99,21 +107,15 @@ const NavBar = () => {
 
           {/* Bottom Categories */}
           <div className="hidden md:flex justify-center space-x-8 py-2 border-t border-gray-200 text-sm text-gray-700">
-            <Link to="/mobiles" className="hover:text-indigo-600">
-              Mobiles
-            </Link>
-            <a href="#" className="hover:text-indigo-600">
-              Laptops
-            </a>
-            <a href="#" className="hover:text-indigo-600">
-              TVs
-            </a>
-            <a href="#" className="hover:text-indigo-600">
-              Appliances
-            </a>
-            <a href="#" className="hover:text-indigo-600">
-              Accessories
-            </a>
+            {categories.map((category) => (
+              <Link
+                key={category}
+                to={`/${category}`}
+                className="capitalize hover:text-indigo-600"
+              >
+                {category}
+              </Link>
+            ))}
           </div>
         </div>
       </nav>

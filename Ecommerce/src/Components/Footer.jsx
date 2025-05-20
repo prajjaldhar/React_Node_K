@@ -1,7 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { useProduct } from "../services/ProductContextApi";
 
 const Footer = () => {
+  const products = useProduct();
+
+  const categories = [
+    ...new Set(products.map((prod) => prod.type?.toLowerCase().trim())),
+  ];
   return (
     <div>
       <footer className="bg-gray-100 mt-20 text-gray-700">
@@ -19,26 +25,17 @@ const Footer = () => {
               Shop
             </h3>
             <ul className="mt-4 space-y-2 text-sm">
-              <li>
-                <Link to="/mobiles" className="hover:text-indigo-600">
-                  Mobiles
-                </Link>
-              </li>
-              <li>
-                <a href="#" className="hover:text-indigo-600">
-                  Laptops
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-indigo-600">
-                  TVs
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-indigo-600">
-                  Accessories
-                </a>
-              </li>
+              {categories.map((category) => (
+                <li>
+                  <Link
+                    key={category}
+                    to={`/${category}`}
+                    className="capitalize hover:text-indigo-600"
+                  >
+                    {category}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
           {/* Support Links */}

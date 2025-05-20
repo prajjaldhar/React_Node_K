@@ -8,8 +8,8 @@ import ProductDesc from "./Pages/ProductDesc";
 import CheckOut from "./Pages/CheckOut";
 import LoginPage from "./Pages/LoginPage";
 import SignupPage from "./Pages/SignupPage";
-import MobilesPage from "./Pages/MobilesPage";
 import WishListPage from "./Pages/WishListPage";
+import CategoryPage from "./Pages/CategoryPage";
 import ReturnsPage from "./Pages/ReturnsPage";
 import FaqPage from "./Pages/FaqPage";
 import ContactUsPage from "./Pages/ContactUsPage";
@@ -31,7 +31,7 @@ const App = () => {
     <div>
       <Router>
         <ScrollToTop />
-        <TitleManager/>
+        <TitleManager />
         <ProductProvider>
           <Routes>
             {/* Layout for login & signup only (no header/footer) */}
@@ -40,14 +40,11 @@ const App = () => {
 
             {/* Layout with header/footer */}
             <Route element={<MainLayout />}>
-              <Route
-                path="/home"
-                element={<HomePage products={productdata} />}
-              />
+              <Route path="/home" element={<HomePage />} />
               <Route path="/product" element={<ProductDesc />} />
               <Route path="/checkout" element={<CheckOut />} />
               <Route path="/wishlist" element={<WishListPage />} />
-              <Route path="/mobiles" element={<MobilesPage />} />
+              <Route path="/:category" element={<CategoryPage />} />
               <Route path="/returns" element={<ReturnsPage />} />
               <Route path="/faqs" element={<FaqPage />} />
               <Route path="/contact" element={<ContactUsPage />} />

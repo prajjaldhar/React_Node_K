@@ -2,7 +2,7 @@ import React from "react";
 
 const ProductDesign = () => {
   return (
-    <div>
+    <div className="mt-25">
       <section className="bg-white py-12">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-12">
           {/* Product Image */}
