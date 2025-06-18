@@ -21,10 +21,11 @@ import TermsAndConditionPage from "./Pages/TermsAndConditionPage";
 import MainLayout from "./Layout/MainLayout";
 
 // data
-import productdata from "./Utility/data.json";
+// import productdata from "./Utility/data.json";
 import { ProductProvider } from "./services/ProductContextApi";
 import ScrollToTop from "./services/LocationPath";
 import TitleManager from "./services/TitleManager";
+import NotFoundPage from "./Pages/NotFoundPage";
 
 const App = () => {
   return (
@@ -37,6 +38,8 @@ const App = () => {
             {/* Layout for login & signup only (no header/footer) */}
             <Route path="/" element={<LoginPage />} />
             <Route path="/signup" element={<SignupPage />} />
+            <Route path="/not-found" element={<NotFoundPage />} />
+            <Route path="*" element={<NotFoundPage />} />
 
             {/* Layout with header/footer */}
             <Route element={<MainLayout />}>
@@ -44,7 +47,7 @@ const App = () => {
               <Route path="/product" element={<ProductDesc />} />
               <Route path="/checkout" element={<CheckOut />} />
               <Route path="/wishlist" element={<WishListPage />} />
-              <Route path="/:category" element={<CategoryPage />} />
+              <Route path="/products/:category" element={<CategoryPage />} />
               <Route path="/returns" element={<ReturnsPage />} />
               <Route path="/faqs" element={<FaqPage />} />
               <Route path="/contact" element={<ContactUsPage />} />

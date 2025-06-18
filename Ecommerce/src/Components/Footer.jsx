@@ -29,7 +29,7 @@ const Footer = () => {
                 <li>
                   <Link
                     key={category}
-                    to={`/${category}`}
+                    to={`/products/${category}`}
                     className="capitalize hover:text-indigo-600"
                   >
                     {category}

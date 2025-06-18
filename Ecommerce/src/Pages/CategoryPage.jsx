@@ -1,9 +1,9 @@
 import React from "react";
-import Footer from "../Components/Footer";
-import NavBar from "../Components/NavBar";
 import ProductCard from "../Components/ProductCard";
-import { useParams } from "react-router-dom";
+import { useParams, Navigate } from "react-router-dom";
 import { useProduct } from "../services/ProductContextApi";
+
+const allowedCategories = ["mobile", "laptop", "ac", "cooler"];
 
 const CategoryPage = () => {
   const { category } = useParams();
@@ -14,8 +14,13 @@ const CategoryPage = () => {
     (prod) => prod.type.toLowerCase() === category.toLowerCase()
   );
   console.log(filteredProducts);
+
+  if (!allowedCategories.includes(category)) {
+    return <Navigate to="*" replace />;
+  }
+
   return (
-    <div className="bg-blue-100 mt-25">
+    <div className="bg-blue-100 mt-25 -mb-20">
       <section className="py-8 ">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row gap-8">
           {/* Filters Sidebar */}

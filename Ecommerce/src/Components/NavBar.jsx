@@ -8,7 +8,7 @@ const NavBar = () => {
   const categories = [
     ...new Set(products.map((prod) => prod.type?.toLowerCase().trim())),
   ];
-  
+
   console.log(`categories>>>>>>`, categories);
   return (
     <div>
@@ -110,7 +110,7 @@ const NavBar = () => {
             {categories.map((category) => (
               <Link
                 key={category}
-                to={`/${category}`}
+                to={`/products/${category}`}
                 className="capitalize hover:text-indigo-600"
               >
                 {category}
